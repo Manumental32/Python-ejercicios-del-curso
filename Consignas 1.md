@@ -1,25 +1,3 @@
-
-Ejercicio N° 4
--	Definir una función que imprima los n próximos años bisiestos a partir de un año determinado.
--	Usar la función definida en el ejercicio anterior.
-
-def listar(aa, n):
-                “imprime años bisiestos”
-                …
-                …
-
-El uso sería el siguiente:
->>> listar(1994, 3)
-1996
-2000
-2004
->>> listar(2092, 4)
-2092
-2096
-2104
-2108
-
-
 Ejercicio N° 1
 -	Definir una función que devuelva True o False dependiendo si una lista, string o tupla es o no capicúa.
 -	Lo ideal es hacerla genérica y que funcione con cualquier tipo de dato.
@@ -70,6 +48,28 @@ El uso sería el siguiente:
 'isosceles'
 >>> triangulo(3,4,3)
 'isosceles'
+
+
+Ejercicio N° 4
+-	Definir una función que imprima los n próximos años bisiestos a partir de un año determinado.
+-	Usar la función definida en el ejercicio anterior.
+
+def listar(aa, n):
+                “imprime años bisiestos”
+                …
+                …
+
+El uso sería el siguiente:
+>>> listar(1994, 3)
+1996
+2000
+2004
+>>> listar(2092, 4)
+2092
+2096
+2104
+2108
+
 
 
 Ejercicio N° 5
